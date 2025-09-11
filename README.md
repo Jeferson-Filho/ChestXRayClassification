@@ -93,7 +93,7 @@ Download the dateframe
 <!-- CONTACT -->
 ## Contact
 
-C <br>
+Caio Bohlhalter de Souza <br>
 [![LinkedIn][linkedin-shield]][caio-linkedin-url]
 
 Jeferson Filho <br>
